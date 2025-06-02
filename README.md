@@ -41,9 +41,7 @@ MySQL Workbench (optional): For easier database management and configuration.
 Web Browser: For accessing the osTicket web interface and testing.
 
 <h2>Installation Steps</h2>
-<p>
-<img src="https://i.imgur.com/YOUR_SCREENSHOT_1.png" height="80%" width="80%" alt="Creating Azure VM"/>
-</p>
+
 <p>
 <b>Step 1: Set Up Azure Virtual Machine</b><br />
 - Log in to the Microsoft Azure portal and create a Windows Server 2022 virtual machine.
@@ -52,9 +50,7 @@ Web Browser: For accessing the osTicket web interface and testing.
 - Use Remote Desktop to connect to the VM with the credentials you set up.
 </p>
 <br />
-<p>
-<img src="https://i.imgur.com/YOUR_SCREENSHOT_2.png" height="80%" width="80%" alt="Configuring IIS and PHP"/>
-</p>
+
 <p>
 <b>Step 2: Install and Configure IIS and PHP</b><br />
 - On the Windows Server, open Server Manager and add the IIS role with the CGI module enabled.
@@ -64,9 +60,7 @@ Web Browser: For accessing the osTicket web interface and testing.
 - Download the osTicket installation files from the official website and extract them to the IIS web directory (e.g., C:\inetpub\wwwroot\osTicket).
 </p>
 <br />
-<p>
-<img src="https://i.imgur.com/YOUR_SCREENSHOT_3.png" height="80%" width="80%" alt="Setting Up MySQL"/>
-</p>
+
 <p>
 <b>Step 3: Install and Configure MySQL</b><br />
 - Download and install MySQL Server (version 5.7 or higher) on the Windows Server.
@@ -75,9 +69,7 @@ Web Browser: For accessing the osTicket web interface and testing.
 - Test the database connection to ensure it’s accessible.
 </p>
 <br />
-<p>
-<img src="https://i.imgur.com/YOUR_SCREENSHOT_4.png" height="80%" width="80%" alt="osTicket Installation"/>
-</p>
+
 <p>
 <b>Step 4: Install and Configure osTicket</b><br />
 - Open a web browser and navigate to `http://localhost/osTicket/setup` to start the osTicket installer.
@@ -87,9 +79,7 @@ Web Browser: For accessing the osTicket web interface and testing.
 </p>
 <br />
 <h2>Testing and Validation</h2>
-<p>
-<img src="https://i.imgur.com/YOUR_SCREENSHOT_5.png" height="80%" width="80%" alt="Testing osTicket with Mock Users"/>
-</p>
+
 <p>
 <b>Step 5: Testing with Mock Users</b><br />
 - Created multiple mock user accounts (e.g., End User, Agent, and Admin) to simulate real-world ticketing scenarios.
