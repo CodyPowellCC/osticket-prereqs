@@ -49,7 +49,7 @@ Web Browser: For accessing the osTicket web interface and testing.
 - Log in to the Microsoft Azure portal and create a Windows Server 2022 virtual machine.
 - Configure the VM with at least 2 vCPUs and 4GB RAM to ensure smooth performance.
 - Enable Remote Desktop Protocol (RDP) and note the public IP address for remote access.
-- Use Remote Desktop to connect to the VM with the provided credentials.
+- Use Remote Desktop to connect to the VM with the credentials you set up.
 </p>
 <br />
 <p>
