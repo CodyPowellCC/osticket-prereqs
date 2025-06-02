@@ -101,8 +101,3 @@ Web Browser: For accessing the osTicket web interface and testing.
 <br />
 <h2>Project Outcome</h2>
 This project demonstrates proficiency in setting up a help desk ticketing system using osTicket on a Windows Server environment hosted in Microsoft Azure. Key skills include provisioning cloud infrastructure, configuring web servers (IIS), managing databases (MySQL), and testing ticketing workflows with mock users to ensure functionality.
-<h2>Next Steps</h2>
-- Explore advanced osTicket configurations, such as integrating with email servers or LDAP for user authentication.
-- Automate VM provisioning using Azure CLI or PowerShell scripts.
-- Document additional troubleshooting steps for common osTicket issues.
-
